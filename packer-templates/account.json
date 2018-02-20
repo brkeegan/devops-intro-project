@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fine-craft-193419",
+  "private_key_id": "929cb5bb07698f0665d9fbbb53b484b1a924ac1a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDoTlQsWxPL7jIp\nQoClXqVYe3UQHQSC3ZVcPNNglC9FBX4M3hXsdD6KzrxZpyftYatyI9kZy8j+TZT7\n0hTE1wqCGA9BMLEMDJd2hCE3XrK/VDoEEz8+FQV/rI4muGxSUKp9C+fprDzpul8p\nce3yyIV75ahTzsQeN2F5glvAGgwDSjasnwMtMyX/IAoB35egvmWpECZztQ+R7WB/\nnKgwlZ/Ie/c0JOFOAZUVgSbV+cwVb9Jkx1ANpV5/jqfYM0iHalbRcM9gi4XhWPhQ\nmn8RtH1GVPX2f3P7+tUc+7TtyhKvOrrqR4TE4+Q+TfkJ0aWFiSHNV4GwfZgNnbpL\nCh8UHe1XAgMBAAECggEAJincFS9fOLTog7O7q685Tah2ik+iEpexdmY9uZOOknG9\nDAMeKerM7YPaGIZn/kz52/X8sAq0+eYn8BjKta24ObgXJXgI1fhpl5xMUqrZhaoi\nH9JDpQDSFu/zqHPKw9khsQpYLqDPnvwxrv7a/vQnTbvkY+RHfslNV6dtSElfKNjj\noQP502e316EqdPdsPzw9RSWqI/LrC5rL+tXILkP7eg/IPmjpTzPTsbOmG+DOItmR\nVkSiphyoIDy520K0yAhjLEUvcI7x2VQv38DyK7oA1GDVpQNI2xfjckh/Axk3S/jH\nnpZMsbx35ya3DTs+430GYt6CJ0tMaBuXBf8uU2E5DQKBgQD+Wvf9kY+lCkbCTVPt\nhp6FGPCIxmxZ/sqLDV+eGbBEChj2N3qYidOLcx3tPwN8TcshMX701+1V/ZUOJLuE\nDEDTFHPvUvmz7bxhEUVWR4eNW0Ot0P10fvi7uMZC5Cl3QfOmTYwrSRxkjfGvjIdF\nUmvH1+KVch6J4jUxEvEZLM8rowKBgQDpztyt9IeYUkg2NrrhpHZL1nJm9lbAACjS\n3P41BLzrRniJ+epJtvfc97qHRR9HpO9uo6TH/2pxFV/+7AhttiNc/TbN0mDdUpcC\nmqFnTvfvlpIGOiX4cPJ9A9D6iq+c+tW+O111IsbCJOEOObIvcDyWCPsD6CrSyZ+m\nJ3v9MxXSvQKBgFFJIReX/R/xOMu/iqLN8rr2TWhogRgBpRjrHTOZYgtcbr3A3R0C\nbuiR0W6QRLzk35WsC7aTivWAJLJwary4bb8HOkWxbrthrmIW8uGv2lICaI6Ty2v/\nZ94WHsYhxF6oZQUwoyryInDALAy+DDzLKkajZ3X7EmdeM0GLnCE/gLWhAoGAM5n0\nGnBdfMCsL0rk8+fYM+SgWxkDDFz8pY0gjZL+Hu7uq4T8sEgxbBNAl5opzSYZsdFs\nDLfSRiLxjNGLCquoIl3AOqyztCUGLwzxkltbXQVeNQGgX7SN0AmHlcQF/h9eDR4N\nAk0qkK6S/RC+wrmCpZpVzAbxbJQTKBiOxNMBfgECgYEAoTW6DZ5N8ghXZdjMsqzK\nFoccIzZ7RhAnalwiGfgFuRNDfYz6ZMKb7jkIlGQwyq9aClKGZpObhCp1Xytr0uJY\nSXZS4/t+jmJ+I/w+9Ns96sERuZQnJ3v50nfiy2Kew6N6EbrNpsWOzZXnI6sSR8Jp\neSIgrLZ917/xWs9XD0ei6Vg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "packerkeys-stud01@fine-craft-193419.iam.gserviceaccount.com",
+  "client_id": "106631486209608744630",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/packerkeys-stud01%40fine-craft-193419.iam.gserviceaccount.com"
+}
